@@ -64,7 +64,7 @@ zhishu-qifei-skill/
 
 直接把下面这句话发给你的 AI 助手：
 
-> 帮我安装智书企飞 Skill，仓库地址：https://github.com/l17826834185-arch/zhishu-qifei-skill
+> 帮我安装智书企飞 Skill，仓库地址：https://github.com/l17826834185-arch/ZS-QF-AI-Skill
 
 Agent 会自动克隆仓库并安装到对应的 Skill 目录。
 
@@ -73,7 +73,7 @@ Agent 会自动克隆仓库并安装到对应的 Skill 目录。
 克隆到本地 Skill 目录：
 
 ```bash
-git clone https://github.com/l17826834185-arch/zhishu-qifei-skill.git \
+git clone https://github.com/l17826834185-arch/ZS-QF-AI-Skill.git \
   ~/.codex/skills/zhishu-qifei-skill
 ```
 
@@ -98,7 +98,7 @@ git clone https://github.com/l17826834185-arch/zhishu-qifei-skill.git \
 |---|---|
 | 协议 | Codex Skill |
 | 当前版本 | 0.1.0 |
-| 仓库地址 | https://github.com/l17826834185-arch/zhishu-qifei-skill |
+| 仓库地址 | https://github.com/l17826834185-arch/ZS-QF-AI-Skill |
 | 可见性 | Private |
 
 ## License
