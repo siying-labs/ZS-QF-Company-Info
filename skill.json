@@ -1,0 +1,23 @@
+{
+  "name": "zhishu-qifei-skill",
+  "version": "0.1.0",
+  "displayName": "智书企飞 AI Skill",
+  "description": "智书企飞公司、产品、售前、客户成功与竞品口径 Skill。",
+  "capabilities": [
+    "company_intro",
+    "product_consulting",
+    "scenario_matching",
+    "faq",
+    "sales_playbook",
+    "competitor_positioning"
+  ],
+  "entrypoint": "SKILL.md",
+  "references": [
+    "references/company.md",
+    "references/products.md",
+    "references/faq.md",
+    "references/sales-playbook.md",
+    "references/competitors.md"
+  ],
+  "visibility": "private"
+}
