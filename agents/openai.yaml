@@ -1,0 +1,8 @@
+interface:
+  display_name: "智书企飞顾问"
+  short_description: "智书企飞公司、产品、售前与客户成功口径"
+  brand_color: "#2563EB"
+  default_prompt: "Use $zhishu-qifei-skill to answer customer questions about 智书企飞, 智书AI合同, 烽火, and 智审平台."
+
+policy:
+  allow_implicit_invocation: true
